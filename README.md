@@ -3,8 +3,7 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Abhisek Majumder, FOKIN CodeForker :computer:<br>
   <br>
-   <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Q61LJj43H48z1FIK4X" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gif-art-old-school-dos-Q61LJj43H48z1FIK4X">via GIPHY</a></p>
- </abc>
+   src="https://giphy.com/embed/Q61LJj43H48z1FIK4X" width="480" height="480" frameBorder="0"
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
